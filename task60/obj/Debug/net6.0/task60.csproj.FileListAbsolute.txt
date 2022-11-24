@@ -1,0 +1,15 @@
+C:\Юля\c#домашки\c#hw8\task60\obj\Debug\net6.0\task60.csproj.AssemblyReference.cache
+C:\Юля\c#домашки\c#hw8\task60\obj\Debug\net6.0\task60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Юля\c#домашки\c#hw8\task60\obj\Debug\net6.0\task60.AssemblyInfoInputs.cache
+C:\Юля\c#домашки\c#hw8\task60\obj\Debug\net6.0\task60.AssemblyInfo.cs
+C:\Юля\c#домашки\c#hw8\task60\obj\Debug\net6.0\task60.csproj.CoreCompileInputs.cache
+C:\Юля\c#домашки\c#hw8\task60\bin\Debug\net6.0\task60.exe
+C:\Юля\c#домашки\c#hw8\task60\bin\Debug\net6.0\task60.deps.json
+C:\Юля\c#домашки\c#hw8\task60\bin\Debug\net6.0\task60.runtimeconfig.json
+C:\Юля\c#домашки\c#hw8\task60\bin\Debug\net6.0\task60.dll
+C:\Юля\c#домашки\c#hw8\task60\bin\Debug\net6.0\task60.pdb
+C:\Юля\c#домашки\c#hw8\task60\obj\Debug\net6.0\task60.dll
+C:\Юля\c#домашки\c#hw8\task60\obj\Debug\net6.0\refint\task60.dll
+C:\Юля\c#домашки\c#hw8\task60\obj\Debug\net6.0\task60.pdb
+C:\Юля\c#домашки\c#hw8\task60\obj\Debug\net6.0\task60.genruntimeconfig.cache
+C:\Юля\c#домашки\c#hw8\task60\obj\Debug\net6.0\ref\task60.dll
